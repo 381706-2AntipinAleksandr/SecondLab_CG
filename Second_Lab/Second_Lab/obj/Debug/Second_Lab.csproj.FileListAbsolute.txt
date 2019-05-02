@@ -1,0 +1,17 @@
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\bin\Debug\Second_Lab.exe.config
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\bin\Debug\Second_Lab.exe
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\bin\Debug\Second_Lab.pdb
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\bin\Debug\OpenTK.dll
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\bin\Debug\OpenTK.GLControl.dll
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\bin\Debug\OpenTK.pdb
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\bin\Debug\OpenTK.xml
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\bin\Debug\OpenTK.GLControl.xml
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\obj\Debug\Second_Lab.csprojAssemblyReference.cache
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\obj\Debug\Second_Lab.Form1.resources
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\obj\Debug\Second_Lab.Properties.Resources.resources
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\obj\Debug\Second_Lab.csproj.GenerateResource.cache
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\obj\Debug\Second_Lab.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\obj\Debug\Second_Lab.csproj.CopyComplete
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\obj\Debug\Second_Lab.exe
+C:\Users\aleks\Documents\GitHub\SecondLab_CG\Second_Lab\Second_Lab\obj\Debug\Second_Lab.pdb

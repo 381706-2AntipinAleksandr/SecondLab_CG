@@ -7,7 +7,7 @@ using System.IO;
 
 namespace Second_Lab
 {
-    class Bin
+    public class Bin
     {
         public static int LenX, LenY, LenZ;
         public static short[] array;
